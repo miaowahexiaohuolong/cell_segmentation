@@ -1,0 +1,9 @@
+Test Time: 2025-05-12 23:15:44
+Weight Path: weights/consep_nuclei_segmentation_best.th
+Number of Classes: 8
+==================================================
+Average Accuracy:    0.8185
+Average Sensitivity: 0.2924
+Average Dice:        0.2641
+Average AUC:         0.8989
+==================================================
