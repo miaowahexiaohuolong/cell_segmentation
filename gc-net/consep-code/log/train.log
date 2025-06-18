@@ -1,0 +1,124 @@
+2025-05-27 00:03:10 - INFO - 使用设备: cuda
+2025-05-27 00:06:45 - INFO - 使用设备: cuda
+2025-05-27 00:08:57 - INFO - 使用设备: cuda
+2025-05-27 00:09:53 - INFO - 使用设备: cuda
+2025-05-27 00:10:05 - INFO - Loss: 5.1853 | Average Accuracy: 0.6930 | Average Sensitivity: 0.8425 | Average Dice: 0.4242 | Average AUC: 0.8278
+2025-05-27 00:10:05 - INFO - 保存最佳模型，Dice: 0.4242
+2025-05-27 00:10:15 - INFO - Loss: 4.9812 | Average Accuracy: 0.7686 | Average Sensitivity: 0.9130 | Average Dice: 0.5121 | Average AUC: 0.8957
+2025-05-27 00:10:16 - INFO - 保存最佳模型，Dice: 0.5121
+2025-05-27 00:10:26 - INFO - Loss: 4.7721 | Average Accuracy: 0.7652 | Average Sensitivity: 0.9220 | Average Dice: 0.5111 | Average AUC: 0.9027
+2025-05-27 00:10:37 - INFO - Loss: 4.6829 | Average Accuracy: 0.7878 | Average Sensitivity: 0.8807 | Average Dice: 0.5225 | Average AUC: 0.8974
+2025-05-27 00:10:37 - INFO - 保存最佳模型，Dice: 0.5225
+2025-05-27 00:10:47 - INFO - Loss: 4.6915 | Average Accuracy: 0.7949 | Average Sensitivity: 0.8933 | Average Dice: 0.5019 | Average AUC: 0.9074
+2025-05-27 00:10:58 - INFO - Loss: 4.4484 | Average Accuracy: 0.8122 | Average Sensitivity: 0.9035 | Average Dice: 0.5485 | Average AUC: 0.9085
+2025-05-27 00:10:58 - INFO - 保存最佳模型，Dice: 0.5485
+2025-05-27 00:11:08 - INFO - Loss: 4.4584 | Average Accuracy: 0.8216 | Average Sensitivity: 0.8806 | Average Dice: 0.5365 | Average AUC: 0.9154
+2025-05-27 00:11:19 - INFO - Loss: 4.3991 | Average Accuracy: 0.8207 | Average Sensitivity: 0.8567 | Average Dice: 0.5330 | Average AUC: 0.9104
+2025-05-27 00:11:29 - INFO - Loss: 4.1881 | Average Accuracy: 0.8196 | Average Sensitivity: 0.8651 | Average Dice: 0.5475 | Average AUC: 0.9099
+2025-05-27 00:11:39 - INFO - Loss: 4.2413 | Average Accuracy: 0.8220 | Average Sensitivity: 0.8597 | Average Dice: 0.5233 | Average AUC: 0.9162
+2025-05-27 00:11:50 - INFO - Loss: 4.1752 | Average Accuracy: 0.8432 | Average Sensitivity: 0.8048 | Average Dice: 0.5289 | Average AUC: 0.9126
+2025-05-27 00:12:00 - INFO - Loss: 4.0165 | Average Accuracy: 0.8389 | Average Sensitivity: 0.8351 | Average Dice: 0.5700 | Average AUC: 0.9161
+2025-05-27 00:12:00 - INFO - 保存最佳模型，Dice: 0.5700
+2025-05-27 00:12:10 - INFO - Loss: 3.8829 | Average Accuracy: 0.8319 | Average Sensitivity: 0.8268 | Average Dice: 0.5446 | Average AUC: 0.9139
+2025-05-27 00:12:20 - INFO - Loss: 3.7632 | Average Accuracy: 0.8560 | Average Sensitivity: 0.7955 | Average Dice: 0.5841 | Average AUC: 0.9202
+2025-05-27 00:12:20 - INFO - 保存最佳模型，Dice: 0.5841
+2025-05-27 00:12:31 - INFO - Loss: 3.7812 | Average Accuracy: 0.8524 | Average Sensitivity: 0.7965 | Average Dice: 0.5664 | Average AUC: 0.9149
+2025-05-27 00:12:41 - INFO - Loss: 3.5875 | Average Accuracy: 0.8475 | Average Sensitivity: 0.8163 | Average Dice: 0.5684 | Average AUC: 0.9210
+2025-05-27 00:12:51 - INFO - Loss: 3.5534 | Average Accuracy: 0.8519 | Average Sensitivity: 0.8148 | Average Dice: 0.5584 | Average AUC: 0.9237
+2025-05-27 00:13:01 - INFO - Loss: 3.3915 | Average Accuracy: 0.8605 | Average Sensitivity: 0.7816 | Average Dice: 0.5857 | Average AUC: 0.9207
+2025-05-27 00:13:01 - INFO - 保存最佳模型，Dice: 0.5857
+2025-05-27 00:13:12 - INFO - Loss: 3.2744 | Average Accuracy: 0.8600 | Average Sensitivity: 0.7705 | Average Dice: 0.5760 | Average AUC: 0.9219
+2025-05-27 00:13:22 - INFO - Loss: 3.2827 | Average Accuracy: 0.8587 | Average Sensitivity: 0.7527 | Average Dice: 0.5715 | Average AUC: 0.9179
+2025-05-27 00:13:32 - INFO - Loss: 3.2849 | Average Accuracy: 0.8631 | Average Sensitivity: 0.7540 | Average Dice: 0.5695 | Average AUC: 0.9237
+2025-05-27 00:13:43 - INFO - Loss: 3.1563 | Average Accuracy: 0.8559 | Average Sensitivity: 0.7519 | Average Dice: 0.5747 | Average AUC: 0.9165
+2025-05-27 00:13:53 - INFO - Loss: 3.1900 | Average Accuracy: 0.8583 | Average Sensitivity: 0.6939 | Average Dice: 0.5381 | Average AUC: 0.9168
+2025-05-27 00:14:04 - INFO - Loss: 3.0102 | Average Accuracy: 0.8686 | Average Sensitivity: 0.7316 | Average Dice: 0.5713 | Average AUC: 0.9228
+2025-05-27 00:14:15 - INFO - Loss: 3.1142 | Average Accuracy: 0.8711 | Average Sensitivity: 0.7054 | Average Dice: 0.5497 | Average AUC: 0.9270
+2025-05-27 00:14:25 - INFO - Loss: 2.9501 | Average Accuracy: 0.8675 | Average Sensitivity: 0.7315 | Average Dice: 0.5581 | Average AUC: 0.9253
+2025-05-27 00:14:36 - INFO - Loss: 2.7940 | Average Accuracy: 0.8762 | Average Sensitivity: 0.7365 | Average Dice: 0.5764 | Average AUC: 0.9290
+2025-05-27 00:14:47 - INFO - Loss: 2.7214 | Average Accuracy: 0.8804 | Average Sensitivity: 0.6808 | Average Dice: 0.5788 | Average AUC: 0.9215
+2025-05-27 00:14:58 - INFO - Loss: 2.9614 | Average Accuracy: 0.8715 | Average Sensitivity: 0.7093 | Average Dice: 0.5444 | Average AUC: 0.9251
+2025-05-27 00:15:09 - INFO - Loss: 2.7924 | Average Accuracy: 0.8709 | Average Sensitivity: 0.6804 | Average Dice: 0.5594 | Average AUC: 0.9204
+2025-05-27 00:15:19 - INFO - Loss: 2.7767 | Average Accuracy: 0.8778 | Average Sensitivity: 0.7401 | Average Dice: 0.6014 | Average AUC: 0.9305
+2025-05-27 00:15:19 - INFO - 保存最佳模型，Dice: 0.6014
+2025-05-27 00:15:30 - INFO - Loss: 2.7887 | Average Accuracy: 0.8759 | Average Sensitivity: 0.7100 | Average Dice: 0.5866 | Average AUC: 0.9280
+2025-05-27 00:15:41 - INFO - Loss: 2.6751 | Average Accuracy: 0.8830 | Average Sensitivity: 0.7196 | Average Dice: 0.6015 | Average AUC: 0.9304
+2025-05-27 00:15:41 - INFO - 保存最佳模型，Dice: 0.6015
+2025-05-27 00:15:52 - INFO - Loss: 2.7914 | Average Accuracy: 0.8822 | Average Sensitivity: 0.7106 | Average Dice: 0.5576 | Average AUC: 0.9364
+2025-05-27 00:16:03 - INFO - Loss: 2.7859 | Average Accuracy: 0.8751 | Average Sensitivity: 0.6823 | Average Dice: 0.5405 | Average AUC: 0.9293
+2025-05-27 00:16:13 - INFO - Loss: 2.8841 | Average Accuracy: 0.8747 | Average Sensitivity: 0.6958 | Average Dice: 0.5378 | Average AUC: 0.9328
+2025-05-27 00:16:24 - INFO - Loss: 2.7780 | Average Accuracy: 0.8771 | Average Sensitivity: 0.6996 | Average Dice: 0.5723 | Average AUC: 0.9310
+2025-05-27 00:16:35 - INFO - Loss: 2.7946 | Average Accuracy: 0.8817 | Average Sensitivity: 0.7114 | Average Dice: 0.5485 | Average AUC: 0.9346
+2025-05-27 00:16:46 - INFO - Loss: 2.8555 | Average Accuracy: 0.8729 | Average Sensitivity: 0.6702 | Average Dice: 0.5620 | Average AUC: 0.9312
+2025-05-27 00:16:57 - INFO - Loss: 2.8584 | Average Accuracy: 0.8716 | Average Sensitivity: 0.7049 | Average Dice: 0.5697 | Average AUC: 0.9350
+2025-05-27 00:17:08 - INFO - Loss: 2.6172 | Average Accuracy: 0.8871 | Average Sensitivity: 0.6958 | Average Dice: 0.5740 | Average AUC: 0.9375
+2025-05-27 00:17:18 - INFO - Loss: 2.6469 | Average Accuracy: 0.8940 | Average Sensitivity: 0.6830 | Average Dice: 0.5701 | Average AUC: 0.9405
+2025-05-27 00:17:29 - INFO - Loss: 2.5005 | Average Accuracy: 0.8816 | Average Sensitivity: 0.6913 | Average Dice: 0.5994 | Average AUC: 0.9287
+2025-05-27 00:17:40 - INFO - Loss: 2.7304 | Average Accuracy: 0.8750 | Average Sensitivity: 0.6995 | Average Dice: 0.5623 | Average AUC: 0.9375
+2025-05-27 00:17:51 - INFO - Loss: 2.6990 | Average Accuracy: 0.8768 | Average Sensitivity: 0.7351 | Average Dice: 0.5827 | Average AUC: 0.9403
+2025-05-27 00:18:02 - INFO - Loss: 2.3536 | Average Accuracy: 0.9002 | Average Sensitivity: 0.7173 | Average Dice: 0.6278 | Average AUC: 0.9405
+2025-05-27 00:18:02 - INFO - 保存最佳模型，Dice: 0.6278
+2025-05-27 00:18:12 - INFO - Loss: 2.4618 | Average Accuracy: 0.8854 | Average Sensitivity: 0.7254 | Average Dice: 0.6235 | Average AUC: 0.9336
+2025-05-27 00:18:23 - INFO - Loss: 2.4790 | Average Accuracy: 0.8920 | Average Sensitivity: 0.6850 | Average Dice: 0.5964 | Average AUC: 0.9320
+2025-05-27 00:18:34 - INFO - Loss: 2.7320 | Average Accuracy: 0.8820 | Average Sensitivity: 0.7019 | Average Dice: 0.5835 | Average AUC: 0.9336
+2025-05-27 00:18:44 - INFO - Loss: 2.4421 | Average Accuracy: 0.8933 | Average Sensitivity: 0.7146 | Average Dice: 0.6150 | Average AUC: 0.9466
+2025-05-27 00:18:55 - INFO - Loss: 2.5337 | Average Accuracy: 0.8946 | Average Sensitivity: 0.7049 | Average Dice: 0.5895 | Average AUC: 0.9419
+2025-05-27 00:19:06 - INFO - Loss: 2.6047 | Average Accuracy: 0.8921 | Average Sensitivity: 0.7297 | Average Dice: 0.5960 | Average AUC: 0.9478
+2025-05-27 00:19:17 - INFO - Loss: 2.5397 | Average Accuracy: 0.8928 | Average Sensitivity: 0.7415 | Average Dice: 0.6071 | Average AUC: 0.9464
+2025-05-27 00:19:28 - INFO - Loss: 2.3559 | Average Accuracy: 0.9013 | Average Sensitivity: 0.6684 | Average Dice: 0.6086 | Average AUC: 0.9443
+2025-05-27 00:19:38 - INFO - Loss: 2.2362 | Average Accuracy: 0.9043 | Average Sensitivity: 0.7156 | Average Dice: 0.6482 | Average AUC: 0.9436
+2025-05-27 00:19:38 - INFO - 保存最佳模型，Dice: 0.6482
+2025-05-27 00:19:49 - INFO - Loss: 2.3910 | Average Accuracy: 0.9025 | Average Sensitivity: 0.7161 | Average Dice: 0.6223 | Average AUC: 0.9495
+2025-05-27 00:20:00 - INFO - Loss: 2.5358 | Average Accuracy: 0.8883 | Average Sensitivity: 0.6806 | Average Dice: 0.6034 | Average AUC: 0.9377
+2025-05-27 00:20:11 - INFO - Loss: 2.3578 | Average Accuracy: 0.9014 | Average Sensitivity: 0.7094 | Average Dice: 0.6353 | Average AUC: 0.9466
+2025-05-27 00:20:22 - INFO - Loss: 2.3686 | Average Accuracy: 0.8994 | Average Sensitivity: 0.7493 | Average Dice: 0.6273 | Average AUC: 0.9508
+2025-05-27 00:20:33 - INFO - Loss: 2.2933 | Average Accuracy: 0.9040 | Average Sensitivity: 0.6694 | Average Dice: 0.6259 | Average AUC: 0.9456
+2025-05-27 00:20:43 - INFO - Loss: 2.4118 | Average Accuracy: 0.8971 | Average Sensitivity: 0.6959 | Average Dice: 0.6215 | Average AUC: 0.9419
+2025-05-27 00:20:54 - INFO - Loss: 2.4092 | Average Accuracy: 0.8948 | Average Sensitivity: 0.6709 | Average Dice: 0.6092 | Average AUC: 0.9446
+2025-05-27 00:21:05 - INFO - Loss: 2.3061 | Average Accuracy: 0.9035 | Average Sensitivity: 0.6883 | Average Dice: 0.6423 | Average AUC: 0.9460
+2025-05-27 00:21:16 - INFO - Loss: 2.3263 | Average Accuracy: 0.9036 | Average Sensitivity: 0.7072 | Average Dice: 0.6254 | Average AUC: 0.9449
+2025-05-27 00:21:27 - INFO - Loss: 2.1960 | Average Accuracy: 0.9036 | Average Sensitivity: 0.7031 | Average Dice: 0.6588 | Average AUC: 0.9438
+2025-05-27 00:21:27 - INFO - 保存最佳模型，Dice: 0.6588
+2025-05-27 00:21:37 - INFO - Loss: 2.4476 | Average Accuracy: 0.8989 | Average Sensitivity: 0.6470 | Average Dice: 0.6059 | Average AUC: 0.9459
+2025-05-27 00:21:48 - INFO - Loss: 2.4504 | Average Accuracy: 0.8948 | Average Sensitivity: 0.7425 | Average Dice: 0.6158 | Average AUC: 0.9468
+2025-05-27 00:21:59 - INFO - Loss: 2.3561 | Average Accuracy: 0.9003 | Average Sensitivity: 0.6877 | Average Dice: 0.6487 | Average AUC: 0.9499
+2025-05-27 00:22:10 - INFO - Loss: 2.1624 | Average Accuracy: 0.9129 | Average Sensitivity: 0.7458 | Average Dice: 0.6566 | Average AUC: 0.9540
+2025-05-27 00:22:20 - INFO - Loss: 2.2264 | Average Accuracy: 0.9130 | Average Sensitivity: 0.7147 | Average Dice: 0.6437 | Average AUC: 0.9523
+2025-05-27 00:22:31 - INFO - Loss: 2.1105 | Average Accuracy: 0.9170 | Average Sensitivity: 0.7090 | Average Dice: 0.6883 | Average AUC: 0.9529
+2025-05-27 00:22:31 - INFO - 保存最佳模型，Dice: 0.6883
+2025-05-27 00:22:42 - INFO - Loss: 2.1469 | Average Accuracy: 0.9069 | Average Sensitivity: 0.7198 | Average Dice: 0.6744 | Average AUC: 0.9477
+2025-05-27 00:22:53 - INFO - Loss: 2.1157 | Average Accuracy: 0.9127 | Average Sensitivity: 0.7758 | Average Dice: 0.6766 | Average AUC: 0.9568
+2025-05-27 00:23:04 - INFO - Loss: 1.9481 | Average Accuracy: 0.9189 | Average Sensitivity: 0.6681 | Average Dice: 0.6623 | Average AUC: 0.9523
+2025-05-27 00:23:14 - INFO - Loss: 1.9787 | Average Accuracy: 0.9180 | Average Sensitivity: 0.7385 | Average Dice: 0.6911 | Average AUC: 0.9558
+2025-05-27 00:23:14 - INFO - 保存最佳模型，Dice: 0.6911
+2025-05-27 00:23:25 - INFO - Loss: 1.9133 | Average Accuracy: 0.9209 | Average Sensitivity: 0.7242 | Average Dice: 0.6920 | Average AUC: 0.9574
+2025-05-27 00:23:25 - INFO - 保存最佳模型，Dice: 0.6920
+2025-05-27 00:23:36 - INFO - Loss: 1.9994 | Average Accuracy: 0.9165 | Average Sensitivity: 0.7324 | Average Dice: 0.6884 | Average AUC: 0.9550
+2025-05-27 00:23:47 - INFO - Loss: 1.8879 | Average Accuracy: 0.9215 | Average Sensitivity: 0.7472 | Average Dice: 0.7035 | Average AUC: 0.9588
+2025-05-27 00:23:47 - INFO - 保存最佳模型，Dice: 0.7035
+2025-05-27 00:23:57 - INFO - Loss: 2.0043 | Average Accuracy: 0.9190 | Average Sensitivity: 0.7019 | Average Dice: 0.6978 | Average AUC: 0.9573
+2025-05-27 00:24:08 - INFO - Loss: 1.9598 | Average Accuracy: 0.9200 | Average Sensitivity: 0.7240 | Average Dice: 0.6927 | Average AUC: 0.9534
+2025-05-27 00:24:19 - INFO - Loss: 2.0221 | Average Accuracy: 0.9147 | Average Sensitivity: 0.7381 | Average Dice: 0.6785 | Average AUC: 0.9556
+2025-05-27 00:24:30 - INFO - Loss: 1.9517 | Average Accuracy: 0.9175 | Average Sensitivity: 0.7067 | Average Dice: 0.6803 | Average AUC: 0.9571
+2025-05-27 00:24:40 - INFO - Loss: 1.8980 | Average Accuracy: 0.9206 | Average Sensitivity: 0.7267 | Average Dice: 0.7035 | Average AUC: 0.9578
+2025-05-27 00:24:40 - INFO - 保存最佳模型，Dice: 0.7035
+2025-05-27 00:24:51 - INFO - Loss: 2.0420 | Average Accuracy: 0.9165 | Average Sensitivity: 0.7347 | Average Dice: 0.6730 | Average AUC: 0.9591
+2025-05-27 00:25:02 - INFO - Loss: 1.9353 | Average Accuracy: 0.9222 | Average Sensitivity: 0.6734 | Average Dice: 0.6829 | Average AUC: 0.9561
+2025-05-27 00:25:13 - INFO - Loss: 2.0619 | Average Accuracy: 0.9165 | Average Sensitivity: 0.7199 | Average Dice: 0.6918 | Average AUC: 0.9580
+2025-05-27 00:25:24 - INFO - Loss: 1.9744 | Average Accuracy: 0.9186 | Average Sensitivity: 0.7430 | Average Dice: 0.6805 | Average AUC: 0.9581
+2025-05-27 00:25:34 - INFO - Loss: 2.0588 | Average Accuracy: 0.9200 | Average Sensitivity: 0.7447 | Average Dice: 0.6916 | Average AUC: 0.9608
+2025-05-27 00:25:45 - INFO - Loss: 1.9111 | Average Accuracy: 0.9240 | Average Sensitivity: 0.7362 | Average Dice: 0.7133 | Average AUC: 0.9601
+2025-05-27 00:25:45 - INFO - 保存最佳模型，Dice: 0.7133
+2025-05-27 00:25:56 - INFO - Loss: 1.9567 | Average Accuracy: 0.9218 | Average Sensitivity: 0.7560 | Average Dice: 0.7081 | Average AUC: 0.9615
+2025-05-27 00:26:07 - INFO - Loss: 1.8507 | Average Accuracy: 0.9231 | Average Sensitivity: 0.7547 | Average Dice: 0.7237 | Average AUC: 0.9605
+2025-05-27 00:26:07 - INFO - 保存最佳模型，Dice: 0.7237
+2025-05-27 00:26:17 - INFO - Loss: 1.9239 | Average Accuracy: 0.9204 | Average Sensitivity: 0.7644 | Average Dice: 0.7246 | Average AUC: 0.9612
+2025-05-27 00:26:17 - INFO - 保存最佳模型，Dice: 0.7246
+2025-05-27 00:26:28 - INFO - Loss: 2.0250 | Average Accuracy: 0.9178 | Average Sensitivity: 0.7253 | Average Dice: 0.6694 | Average AUC: 0.9583
+2025-05-27 00:26:39 - INFO - Loss: 1.7804 | Average Accuracy: 0.9236 | Average Sensitivity: 0.7413 | Average Dice: 0.7198 | Average AUC: 0.9597
+2025-05-27 00:26:50 - INFO - Loss: 1.8154 | Average Accuracy: 0.9244 | Average Sensitivity: 0.7146 | Average Dice: 0.7068 | Average AUC: 0.9612
+2025-05-27 00:27:00 - INFO - Loss: 1.8256 | Average Accuracy: 0.9263 | Average Sensitivity: 0.7355 | Average Dice: 0.7191 | Average AUC: 0.9634
+2025-05-27 00:27:11 - INFO - Loss: 1.9866 | Average Accuracy: 0.9219 | Average Sensitivity: 0.7663 | Average Dice: 0.7005 | Average AUC: 0.9620
+2025-05-27 00:27:22 - INFO - Loss: 1.9463 | Average Accuracy: 0.9240 | Average Sensitivity: 0.7279 | Average Dice: 0.7144 | Average AUC: 0.9615
+2025-05-27 00:27:32 - INFO - Loss: 1.8571 | Average Accuracy: 0.9273 | Average Sensitivity: 0.7451 | Average Dice: 0.7132 | Average AUC: 0.9621
+2025-05-27 00:27:43 - INFO - Loss: 1.8505 | Average Accuracy: 0.9266 | Average Sensitivity: 0.7270 | Average Dice: 0.7199 | Average AUC: 0.9623
